@@ -9,8 +9,6 @@
 - restart
 
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrRizoel/BanAllBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wtftoxicop/Banallbot)
 
-# Credits
-* [RiZoeL Creator](https://github.com/MrRizoel)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+OWNER TOXIC DANGEROUS FIGHTER
